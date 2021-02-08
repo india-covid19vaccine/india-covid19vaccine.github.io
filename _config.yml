@@ -1,2 +1,3 @@
+# configs such that gh-pages are rendered in the default rendering used for github readme file 
 markdown: GFM
 baseurl: /
