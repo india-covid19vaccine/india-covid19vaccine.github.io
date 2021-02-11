@@ -110,8 +110,8 @@ Provides timeline of vaccination data separately at state level
 | Rajasthan            | RJ         | [https://india-covid19vaccine.github.io/api/RJ.json](RJ.json) |
 | Sikkim               | SK         | [https://india-covid19vaccine.github.io/api/SK.json](SK.json) |
 | Tamil Nadu           | TN         | [https://india-covid19vaccine.github.io/api/TN.json](TN.json) |
-| Telangana            | TR         | [https://india-covid19vaccine.github.io/api/TR.json](TR.json) |
-| Tripura              | TS         | [https://india-covid19vaccine.github.io/api/TS.json](TS.json) |
+| Telangana            | TS         | [https://india-covid19vaccine.github.io/api/TS.json](TS.json) |
+| Tripura              | TR         | [https://india-covid19vaccine.github.io/api/TR.json](TR.json) |
 | Uttar Pradesh        | UP         | [https://india-covid19vaccine.github.io/api/UP.json](UP.json) |
 | Uttarakhand          | UK         | [https://india-covid19vaccine.github.io/api/UK.json](UK.json) |
 | West Bengal          | WB         | [https://india-covid19vaccine.github.io/api/WB.json](WB.json) |
