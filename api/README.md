@@ -1,82 +1,23 @@
 # india-covid19vaccine
-### (Contribute to the [project](https://github.com/india-covid19vaccine/india-covid19vaccine.github.io) !)
 
-Tracking the COVID-19 vaccination details PAN India (all of the data is collected from official government websites and other reliable sources, which are mentioned in the data itself)
+**If you find it useful, please follow and star !**
 
-API endpoints that returns data in JSON format :
+**[@sanyam-git](https://github.com/sanyam-git)**
 
+[View on Github](https://github.com/india-covid19vaccine/india-covid19vaccine.github.io)  
+
+(see [documentation](#documentation) and download respective CSV data from [here](https://india-covid19vaccine.github.io/csv/))
+
+#### National Level Data
 |data|url|
 |--|--|
-|national|[https://india-covid19vaccine.github.io/api/national.json](national.json)|
+|national_latest|[https://india-covid19vaccine.github.io/api/national_latest.json](national_latest.json)|
 |national_timeline|[https://india-covid19vaccine.github.io/api/national_timeline.json](national_timeline.json)|
-|state|[https://india-covid19vaccine.github.io/api/state.json](state.json)|
-|state_timeline|[https://india-covid19vaccine.github.io/api/<state_code>.json](#statetimeline)|
+|state|[https://india-covid19vaccine.github.io/api/state_latest.json](state_latest.json)|
+|state_timeline|[https://india-covid19vaccine.github.io/api/state_timeline.json](#state_timeline)|
 
-Download respective CSV data [here](https://india-covid19vaccine.github.io/csv/).
-
-## Documentation
-### national
-Provides latest vaccination data at national level
-
-    [
-      {
-        "total_sessions":36572,
-        "total":2029480,
-        "population":1371360350,
-        "last_updated":"0800, 27/1/2021",
-        "ref":"https://pib.gov.in/PressReleasePage.aspx?PRID=1692596"
-      }
-    ]
-
-### national_timeline
-Provides timeline of vaccination data at national level
-
-    [
-      {
-        "date":"25/1/2021",
-        "sessions":7764,
-        "total_sessions":36378,
-        "count":408305,
-        "total":2023809,
-        "ref":"https://pib.gov.in/PressReleasePage.aspx?PRID=1692463"
-      },
-      {
-        "date":"26/1/2021",
-        "sessions":194,
-        "total_sessions":36572,
-        "count":5671,
-        "total":2029480,
-        "ref":"https://pib.gov.in/PressReleasePage.aspx?PRID=1692596"
-      }
-    ]
-
-### state
-Provides latest vaccination data at state level
-
-    [
-      {
-        "state":"A & N Islands",
-        "state_code":"AN",
-        "vaccinated":2369,
-        "population":417036,
-        "last_updated":"0800, 27/1/2021",
-        "ref":"https://pib.gov.in/PressReleasePage.aspx?PRID=1692596"
-      },
-      {
-        "state":"Andhra Pradesh",
-        "state_code":"AP",
-        "vaccinated":156129,
-        "population":53903393,
-        "last_updated":"0800, 27/1/2021",
-        "ref":"https://pib.gov.in/PressReleasePage.aspx?PRID=1692596"
-      }
-    ]
-
-   
-### state_timeline
-Provides timeline of vaccination data separately at state level
-
-|state|state_code|url|
+#### State Level Data
+|state/UT|state_code|url|
 |--|--|--|
 | A & N Islands        | AN         | [https://india-covid19vaccine.github.io/api/AN.json](AN.json) |
 | Andhra Pradesh       | AP         | [https://india-covid19vaccine.github.io/api/AP.json](AP.json) |
@@ -116,3 +57,29 @@ Provides timeline of vaccination data separately at state level
 | Uttarakhand          | UK         | [https://india-covid19vaccine.github.io/api/UK.json](UK.json) |
 | West Bengal          | WB         | [https://india-covid19vaccine.github.io/api/WB.json](WB.json) |
 
+
+## Documentation
+#### Commonly used terms in data :
+- `total_sessions` : total number of vaccination sessions conducted
+- `total_doses` : total number of vaccination doses administered (currently India is administering two doses per person)
+- `total_vaccinated` : total number of people who are given at least one dose of the vaccine
+- `total_fully_vaccinated` : total number of people fully vaccinated/all doses given
+
+#### [national_latest](national_latest.json)
+Provides latest vaccination data at national level
+
+#### [national_timeline](national_timeline.json)
+Provides timeline of vaccination data at national level
+
+#### [state_latest](state_latest.json)
+Provides latest vaccination data at state level
+
+#### [state_timeline](state_timeline.json)
+Provides timeline of vaccination data at state level
+
+#### statewise_data
+Provides separate timeline data for each state.
+
+syntax : `https://india-covid19vaccine.github.io/api/<state_code>.json`
+
+ex :  https://india-covid19vaccine.github.io/api/RJ.json
