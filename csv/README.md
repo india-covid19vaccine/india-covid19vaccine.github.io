@@ -64,5 +64,5 @@ All data is available in both formats.
 To download just replace `api->csv` and `.json->.csv`
 
 Example:
-- JSON format -> [https://india-covid19vaccine.github.io/api/national.json](https://india-covid19vaccine.github.io/api/national.json)
-- CSV format -> [https://india-covid19vaccine.github.io/csv/national.csv](https://india-covid19vaccine.github.io/csv/national.csv)
+- JSON format -> [https://india-covid19vaccine.github.io/api/national_timeline.json](https://india-covid19vaccine.github.io/api/national_timeline.json)
+- CSV format -> [https://india-covid19vaccine.github.io/csv/national_timeline.csv](https://india-covid19vaccine.github.io/csv/national_timeline.csv)
