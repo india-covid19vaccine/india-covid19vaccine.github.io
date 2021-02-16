@@ -16,7 +16,7 @@
 |national_latest|[https://india-covid19vaccine.github.io/csv/national_latest.csv](national_latest.csv)|
 |national_timeline|[https://india-covid19vaccine.github.io/csv/national_timeline.csv](national_timeline.csv)|
 |state|[https://india-covid19vaccine.github.io/csv/state_latest.csv](state_latest.csv)|
-|state_timeline|[https://india-covid19vaccine.github.io/csv/state_timeline.csv](#state_timeline)|
+|state_timeline|[https://india-covid19vaccine.github.io/csv/state_timeline.csv](state_timeline.csv)|
 
 #### State Level Data
 |state/UT|state_code|url|
