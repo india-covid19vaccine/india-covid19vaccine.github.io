@@ -13,7 +13,7 @@
 |--|--|
 |national_latest|[https://india-covid19vaccine.github.io/api/national_latest.json](national_latest.json)|
 |national_timeline|[https://india-covid19vaccine.github.io/api/national_timeline.json](national_timeline.json)|
-|state|[https://india-covid19vaccine.github.io/api/state_latest.json](state_latest.json)|
+|state_latest|[https://india-covid19vaccine.github.io/api/state_latest.json](state_latest.json)|
 |state_timeline|[https://india-covid19vaccine.github.io/api/state_timeline.json](state_timeline.json)|
 
 #### State Level Data
