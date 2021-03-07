@@ -41,10 +41,11 @@ date,total_sessions,total_doses,total_vaccinated,total_fully_vaccinated,ref,ref2
 24/2/2021,264315,12671163,11054815,1616348,https://pib.gov.in/PressReleasePage.aspx?PRID=1700689,,
 25/2/2021,278915,13472643,11439649,2032994,https://pib.gov.in/PressReleasePage.aspx?PRID=1700983,,
 26/2/2021,292312,14242547,11788669,2453878,https://pib.gov.in/PressReleasePage.aspx?PRID=1701292,,
-27/2/2021,292312,14242547,11788669,2453878,https://pib.gov.in/PressReleasePage.aspx?PRID=1701466,,
-28/2/2021,292312,14242547,11788669,2453878,https://pib.gov.in/PressReleasePage.aspx?PRID=1701645,,
+27/2/2021,292312,14242547,11788669,2453878,https://pib.gov.in/PressReleasePage.aspx?PRID=1701013,,
+28/2/2021,292312,14242547,11788669,2453878,https://pib.gov.in/PressReleasePage.aspx?PRID=1701013,,
 1/3/2021,301661,14854136,12256337,2597799,https://www.mohfw.gov.in/pdf/CumulativeCoverageReport2ndMarch2021.pdf,https://pib.gov.in/PressReleasePage.aspx?PRID=1702138,"total number of sessions were not  given in PIB reelase (https://pib.gov.in/PressReleasePage.aspx?PRID=1701884), it is calculated by subtracting daily sessions from total sessions of next PIB release"
 2/3/2021,312188,15620749,12906771,2713978,https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport2March2021.pdf,https://pib.gov.in/PressReleasePage.aspx?PRID=1702138,
 3/3/2021,323064,16616048,13739121,2876927,https://www.mohfw.gov.in/pdf/CumulativeCoverageReport3rdMarch2021.pdf,https://pib.gov.in/PressReleasePage.aspx?PRID=1702398,
 4/3/2021,339145,18005503,14796835,3208668,https://www.mohfw.gov.in/pdf/CumulativeCoverageReport4thMarch2021.pdf,https://pib.gov.in/PressReleasePage.aspx?PRID=1702634,"total number of sessions were not mentioned in the PIB release, calculated by adding daily sessions to previous total sessions"
 5/3/2021,357478,19497704,15996683,3501021,https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport5thMarch2021.pdf,https://pib.gov.in/PressReleasePage.aspx?PRID=1702839,
+6/3/2021,375132,20922344,17168303,3754041,https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport6thMarch2021.pdf,https://pib.gov.in/PressReleasePage.aspx?PRID=1702981,"total number of sessions were mentioned significantly less than the previous day, must be a typo mistake. Here, total sessions are calculated using previous day total + today's sessions"
