@@ -1,5 +1,4 @@
 # india-covid19vaccine
-### (Contribute to the [project](https://github.com/india-covid19vaccine/india-covid19vaccine.github.io) !)
 
 **If you find it useful, please follow and star !**
 

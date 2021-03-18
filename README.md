@@ -3,7 +3,7 @@
 [![Website link!](https://img.shields.io/badge/website-link-1abc9c.svg)](https://india-covid19vaccine.github.io)
 [![API link!](https://img.shields.io/badge/API-link-1abc9c.svg)](https://india-covid19vaccine.github.io/api)
 
-### (Contribute to the [project](https://github.com/india-covid19vaccine/india-covid19vaccine.github.io) !)
+### Contribute to the [project](https://github.com/india-covid19vaccine/india-covid19vaccine.github.io) !
 
 Tracking the COVID-19 vaccination details PAN India (all of the data is collected from official government websites and other reliable sources, which are mentioned in the data itself)
 
