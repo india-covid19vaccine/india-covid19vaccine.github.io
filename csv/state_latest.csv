@@ -1,39 +1,39 @@
 state,state_code,total_doses,total_vaccinated,total_fully_vaccinated,population,last_updated,ref
-A & N Islands,AN,21361,15989,5372,417036,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Andhra Pradesh,AP,2341955,1974734,367221,53903393,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Arunachal Pradesh,AR,83450,64272,19178,1570458,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Assam,AS,1004038,870710,133328,35607039,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Bihar,BR,2634237,2206580,427657,124799926,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Chandigarh,CH,74230,63532,10698,1158473,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Chhattisgarh,CG,1729837,1423884,305953,29436231,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Dadra & Nagar Haveli,DN,12756,10496,2260,453229,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Daman & Diu,DD,13532,11753,1779,320756,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Delhi,DL,1196875,959715,237160,18710922,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Goa,GA,107720,91828,15892,1586250,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Gujarat,GJ,5158430,4524687,633743,63872399,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Haryana,HR,1318185,1171027,147158,28204692,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Himachal Pradesh,HP,493737,403332,90405,7451955,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Jammu & Kashmir,JK,751622,612275,139347,13606320,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Jharkhand,JH,1556332,1334882,221450,38593948,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Karnataka,KA,3400617,2985601,415016,67562686,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Kerala,KL,3019646,2647764,371882,35699443,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Ladakh,LA,45692,39298,6394,289023,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Lakshadweep,LD,6800,4724,2076,73183,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Madhya Pradesh,MP,3188497,2699003,489494,85358965,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Maharashtra,MH,5726036,5004331,721705,123144223,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Manipur,MN,118168,85714,32454,3091545,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Meghalaya,ML,96415,68232,28183,3366710,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Mizoram,MZ,65731,52575,13156,1239244,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Nagaland,NL,81676,59603,22073,2249695,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Odisha,OD,2236623,1844679,391944,46356334,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Puducherry,PY,67980,61157,6823,1413542,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Punjab,PB,729130,630437,98693,30141373,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Rajasthan,RJ,5484184,4806418,677766,81032689,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Sikkim,SK,72309,60149,12160,690251,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Tamil Nadu,TN,2751628,2498283,253345,77841267,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Telangana,TS,1170407,944950,225457,39362732,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Tripura,TR,651930,576738,75192,4169794,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Uttar Pradesh,UP,5303442,4393060,910382,237882725,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Uttarakhand,UK,665684,548177,117507,11250858,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-West Bengal,WB,4865445,4229323,636122,99609303,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
-Miscellaneous,MISC,2023445,1461524,561921,,"0700,  28/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf
+A & N Islands,AN,22088,16480,5608,417036,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Andhra Pradesh,AP,2504479,2121512,382967,53903393,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Arunachal Pradesh,AR,85889,65951,19938,1570458,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Assam,AS,1039302,901311,137991,35607039,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Bihar,BR,2711697,2281396,430301,124799926,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Chandigarh,CH,75953,64871,11082,1158473,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Chhattisgarh,CG,1818746,1508503,310243,29436231,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Dadra & Nagar Haveli,DN,13197,10778,2419,453229,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Daman & Diu,DD,14034,12174,1860,320756,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Delhi,DL,1237955,993695,244260,18710922,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Goa,GA,112654,95243,17411,1586250,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Gujarat,GJ,5482050,4828685,653365,63872399,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Haryana,HR,1482699,1331532,151167,28204692,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Himachal Pradesh,HP,522818,431342,91476,7451955,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Jammu & Kashmir,JK,803824,656985,146839,13606320,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Jharkhand,JH,1574368,1350812,223556,38593948,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Karnataka,KA,3669473,3242113,427360,67562686,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Kerala,KL,3339861,2957153,382708,35699443,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Ladakh,LA,45812,39387,6425,289023,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Lakshadweep,LD,6959,4829,2130,73183,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Madhya Pradesh,MP,3191792,2702019,489773,85358965,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Maharashtra,MH,5993126,5255093,738033,123144223,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Manipur,MN,119573,86044,33529,3091545,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Meghalaya,ML,99837,70556,29281,3366710,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Mizoram,MZ,66312,52785,13527,1239244,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Nagaland,NL,85287,62104,23183,2249695,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Odisha,OD,2326922,1925880,401042,46356334,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Puducherry,PY,70258,63342,6916,1413542,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Punjab,PB,792329,690010,102319,30141373,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Rajasthan,RJ,5582172,4887410,694762,81032689,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Sikkim,SK,73286,60964,12322,690251,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Tamil Nadu,TN,2952311,2684001,268310,77841267,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Telangana,TS,1262125,1034705,227420,39362732,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Tripura,TR,687224,610584,76640,4169794,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Uttar Pradesh,UP,5328419,4417459,910960,237882725,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Uttarakhand,UK,683007,563392,119615,11250858,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+West Bengal,WB,5091103,4437985,653118,99609303,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
+Miscellaneous,MISC,2085412,1469950,615462,,"0700,  31/3/2021",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf
