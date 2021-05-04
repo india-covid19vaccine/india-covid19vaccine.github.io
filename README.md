@@ -1,4 +1,7 @@
 # india-covid19vaccine
+
+## Last updated data til 3rd May, 2021. No longer maintained.
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/india-covid19vaccine/india-covid19vaccine.github.io)
 [![Website link!](https://img.shields.io/badge/website-link-1abc9c.svg)](https://india-covid19vaccine.github.io)
 [![API link!](https://img.shields.io/badge/API-link-1abc9c.svg)](https://india-covid19vaccine.github.io/api)

@@ -1,5 +1,7 @@
 # india-covid19vaccine
 
+## Last updated data til 3rd May, 2021. No longer maintained.
+
 **If you find it useful, please follow and star !**
 
 **[@sanyam-git](https://github.com/sanyam-git)**
